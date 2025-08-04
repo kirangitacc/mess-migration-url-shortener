@@ -174,6 +174,30 @@ Built by **Kiran** — a persistent, detail-oriented full-stack developer focuse
 
 ---
 
+## AI Usage
+
+## 🤖 AI Usage Disclosure
+
+This project was developed with assistance from Microsoft Copilot.
+
+### Tools Used
+- **Microsoft Copilot (Chat)**
+
+### Purpose
+- Helped design the project structure
+- Provided complete code for Flask routes, thread-safe storage, and analytics
+- Assisted in writing and refining test cases using `pytest`
+- Generated the `README.md` and submission documentation
+
+### Modifications
+- All AI-generated code was reviewed, tested, and adapted to meet assignment requirements
+- Manual adjustments were made to ensure correctness, clarity, and maintainability
+
+AI was used as a productivity tool, similar to documentation, Stack Overflow, or IDE suggestions.
+
+
+---
+
 ## 📜 License
 
 MIT License
